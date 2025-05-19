@@ -6,7 +6,7 @@
 
 [Server Repo](https://github.com/Ostitter-Anondo/hotel-listings-backend)
 
-<h2>🚀 Usage Instructions</h2>
+<h2>⚙️ Usage Instructions</h2>
 
 <p class="description">Install Node.js at repo directory</p>
 <code>npm i</code>
