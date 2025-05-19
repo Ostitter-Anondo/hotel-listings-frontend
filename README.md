@@ -38,4 +38,4 @@ Technologies used in the project:
 
 <h2>💖Like my work?</h2>
 
-contact jawad.i.mamoon@gmail.com for further queries# hotel-listings-frontend
+contact jawad.i.mamoon@gmail.com for further queries
